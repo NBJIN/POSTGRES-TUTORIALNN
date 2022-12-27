@@ -1,6 +1,5 @@
                                                                                json_agg                                                                                
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- [{"TrackId":422,"Name":"I Want It All","AlbumId":36,"MediaTypeId":1,"GenreId":1,"Composer":"Queen","Milliseconds":241684,"Bytes":7876564,"UnitPrice":0.99},
+[{"TrackId":422,"Name":"I Want It All","AlbumId":36,"MediaTypeId":1,"GenreId":1,"Composer":"Queen","Milliseconds":241684,"Bytes":7876564,"UnitPrice":0.99},
   {"TrackId":424,"Name":"Innuendo","AlbumId":36,"MediaTypeId":1,"GenreId":1,"Composer":"Queen","Milliseconds":387761,"Bytes":12664591,"UnitPrice":0.99},              +
   {"TrackId":426,"Name":"Breakthru","AlbumId":36,"MediaTypeId":1,"GenreId":1,"Composer":"Queen","Milliseconds":249234,"Bytes":8150479,"UnitPrice":0.99},              +
   {"TrackId":428,"Name":"Headlong","AlbumId":36,"MediaTypeId":1,"GenreId":1,"Composer":"Queen","Milliseconds":273057,"Bytes":8921404,"UnitPrice":0.99},               +
